@@ -139,8 +139,15 @@ dmypy.json
 # exclude models from source control by default
 /models/
 
-# exclude experiments
-/experiments/
+# exclude experiments by default, but SHIP the chair checkpoint (needed for the GA notebook)
+/experiments/*
+!/experiments/chair/
+!/experiments/template/
 
 # exclude miscellaneous files
 /misc/
+
+# GA notebook artifacts (regenerated per run)
+notebooks/**/output/
+notebooks/**/*.bak
+*.ipynb.bak
