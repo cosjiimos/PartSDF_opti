@@ -1,0 +1,17 @@
+{
+  "rank": 3,
+  "generation": 5,
+  "user_rating": 5.0,
+  "genes": [
+    228,
+    51,
+    563,
+    716,
+    457,
+    82,
+    209,
+    178
+  ],
+  "pose_anchor": 41,
+  "mode": "intrinsic"
+}

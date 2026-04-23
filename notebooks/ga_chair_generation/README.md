@@ -21,7 +21,7 @@ GitHub repo 페이지 → `notebooks/ga_chair_generation/ga_chair_design.ipynb` 
 
 또는 직접:
 ```
-https://colab.research.google.com/github/USER/REPO/blob/main/notebooks/ga_chair_generation/ga_chair_design.ipynb
+https://colab.research.google.com/github/cosjiimos/PartSDF_opti/blob/main/notebooks/ga_chair_generation/ga_chair_design.ipynb
 ```
 (사설 repo라도 Colab은 토큰 있는 사용자에게 로드해줍니다)
 
